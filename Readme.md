@@ -1,5 +1,7 @@
 # 24 Pull Requests
 
+[![Join the chat at https://gitter.im/erikaheidi/24pullrequests](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/erikaheidi/24pullrequests?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Build Status](https://travis-ci.org/24pullrequests/24pullrequests.svg?branch=master)](https://travis-ci.org/24pullrequests/24pullrequests)
 [![Dependency Status](https://gemnasium.com/24pullrequests/24pullrequests.svg)](https://gemnasium.com/24pullrequests/24pullrequests)
 [![Code Climate](https://codeclimate.com/github/24pullrequests/24pullrequests/badges/gpa.svg)](https://codeclimate.com/github/24pullrequests/24pullrequests)
